@@ -1,0 +1,32 @@
+* {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  background-color: #649b9e;
+}
+
+.main {
+  padding-top: 10%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 2em;
+}
+
+#button {
+  font-size: 1.7em;
+  border: 5px solid white;
+  padding: 10px;
+}
+
+#button:hover {
+  background-color: #d4fdff;
+  transition: all 0.4s;
+}
+
+h2 {
+  font-size: 2.5em;
+  color: #ebc4ab;
+}
+
+p {
+  font-size: 1.8em;
+}
